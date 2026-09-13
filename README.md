@@ -12,7 +12,7 @@ Registers are displayed in a tabulated format for easier inspection.
 
 Here’s how the debugger displays thread registers:
 
-![Debugger output screenshot](images/screenshot.png)
+![Debugger output screenshot](images/screenshot.PNG)
 
 
 ## 📖 Background
